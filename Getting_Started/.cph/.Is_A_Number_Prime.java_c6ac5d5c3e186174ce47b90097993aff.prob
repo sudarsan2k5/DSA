@@ -1,0 +1,1 @@
+{"name":"Local: Is_A_Number_Prime","url":"/home/zod/DSA/Getting_Started/Is_A_Number_Prime.java","tests":[{"id":1725114156271,"input":"5\n13\n2\n3\n4\n5","output":"prime\nprime\nprime\nnot prime\nprime"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/zod/DSA/Getting_Started/Is_A_Number_Prime.java","group":"local","local":true}
