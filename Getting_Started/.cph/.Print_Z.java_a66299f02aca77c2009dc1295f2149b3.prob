@@ -1,0 +1,1 @@
+{"name":"Local: Print_Z","url":"/home/zod/Getting_Started/Print_Z.java","tests":[{"id":1725113559135,"input":"","output":"*****\n   *\n  *\n *\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/zod/Getting_Started/Print_Z.java","group":"local","local":true}
